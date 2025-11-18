@@ -33,3 +33,5 @@ ls *
 # For mac
 ls arm64/.libs
 # You need to find a file called "libnmech.so"
+
+# For mac users you may need to download an alternative terminal such as Xterms to open the Neuron simulator interface. 
