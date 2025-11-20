@@ -3,6 +3,8 @@ Project for the 2025 Ebrains Fall School on the Cellular Models &amp; Brain Sign
 This project is under the common supervision of Jean-Marc Goaillard, DR, INT, Sane team & Cyprien Dautrevaux, PhD student, INS, NeuroStim team. 
 
 
+**For the project you are free to use EBRAINS platform or your own machine**
+
 ## Instruction for the project
 
 ### Env creation
